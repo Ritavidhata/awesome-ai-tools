@@ -78,6 +78,7 @@
 | [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Frontend stack for agents and generative UI | `frontend` `agent` `react` | Freemium | 29.9k |
 | [Awesome AI Tools](https://github.com/ikaijua/Awesome-AITools) | Curated collection of AI utilities | `collection` `tools` | Free | 5.7k |
 | [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | Curated list of MCP servers | `mcp` `protocol` | Free | 5.4k |
+| [toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code plugin for SEO and Google Ads workflows with 9 built-in skills | `claude` `plugin` `seo` | Free | 216 |
 | [Windows MCP](https://github.com/CursorTouch/Windows-MCP) | MCP server for computer use in Windows | `mcp` `windows` `automation` | Free | 5.0k |
 | [ACI.dev](https://github.com/aipotheosis-labs/aci) | Tool-calling platform with 600+ integrations | `tool-calling` `mcp` `api` | Freemium | 4.8k |
 | [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | AI gateway and proxy for MCP, A2A, REST/gRPC | `mcp` `gateway` `proxy` | Free | 3.5k |
