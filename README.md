@@ -91,6 +91,7 @@
 | [AigoTools](https://github.com/someu/aigotools) | Website directory builder with SEO | `directory` `seo` `crawling` | Free | 653 |
 | [Mycoder](https://github.com/bhouston/mycoder) | Command-line AI agent for coding | `cli` `agent` `coding` | Free | 564 |
 | [Modus](https://github.com/hypermodeinc/modus) | Agentic flows powered by WebAssembly | `agent` `webassembly` | Free | 415 |
+| [Formatho Tools](https://github.com/formatho/awesome-ai-tools) | 100+ privacy-first developer utilities, client-side processing | `privacy` `utilities` `tools` | Free | 6 |
 
 ---
 
