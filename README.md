@@ -55,6 +55,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Chatbots
 
+<<<<<<< HEAD
 - [ChatGPT](https://chatgpt.com) - *[reviews](https://theresanai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
 - [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
@@ -67,6 +68,33 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+=======
+| Tool | Description | Tags | Pricing | Stars |
+|------|-------------|------|---------|-------|
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with agent capabilities | `rag` `llm` `agent` | Free | 76.8k |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | AI-driven development platform | `agent` `coding` `autonomous` | Free | 70.4k |
+| [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) | Nano Claude Code-like agent harness | `agent` `claude` `bash` | Free | 46.3k |
+| [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | AI-driven low-code platform | `low-code` `ai` `code-generation` | Freemium | 45.7k |
+| [Continue](https://github.com/continuedev/continue) | Source-controlled AI checks enforceable in CI | `ide` `coding` `ci-cd` | Free | 32.2k |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Frontend stack for agents and generative UI | `frontend` `agent` `react` | Freemium | 29.9k |
+| [Awesome AI Tools](https://github.com/ikaijua/Awesome-AITools) | Curated collection of AI utilities | `collection` `tools` | Free | 5.7k |
+| [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers) | Curated list of MCP servers | `mcp` `protocol` | Free | 5.4k |
+| [Windows MCP](https://github.com/CursorTouch/Windows-MCP) | MCP server for computer use in Windows | `mcp` `windows` `automation` | Free | 5.0k |
+| [ACI.dev](https://github.com/aipotheosis-labs/aci) | Tool-calling platform with 600+ integrations | `tool-calling` `mcp` `api` | Freemium | 4.8k |
+| [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | AI gateway and proxy for MCP, A2A, REST/gRPC | `mcp` `gateway` `proxy` | Free | 3.5k |
+| [Agentation](https://github.com/benjitaylor/agentation) | Visual feedback tool for AI agents | `agent` `visualization` | Free | 3.3k |
+| [Harbor](https://github.com/av/harbor) | Complete pre-wired LLM stack | `llm-stack` `deployment` | Free | 2.6k |
+| [Markdownify MCP](https://github.com/zcaceres/markdownify-mcp) | MCP server for converting to Markdown | `mcp` `markdown` | Free | 2.5k |
+| [Awesome AI SDKs](https://github.com/e2b-dev/awesome-ai-sdks) | Database of SDKs for autonomous AI agents | `sdk` `framework` `agent` | Free | 1.2k |
+| [Coca](https://github.com/phodal/coca) | Toolbox for legacy system refactoring | `refactoring` `analysis` | Free | 977 |
+| [Jupyter MCP Server](https://github.com/datalayer/jupyter-mcp-server) | MCP server for Jupyter notebooks | `mcp` `jupyter` | Free | 975 |
+| [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) | CLI MCP package manager and registry | `mcp` `package-manager` | Free | 917 |
+| [AigoTools](https://github.com/someu/aigotools) | Website directory builder with SEO | `directory` `seo` `crawling` | Free | 653 |
+| [Mycoder](https://github.com/bhouston/mycoder) | Command-line AI agent for coding | `cli` `agent` `coding` | Free | 564 |
+| [Modus](https://github.com/hypermodeinc/modus) | Agentic flows powered by WebAssembly | `agent` `webassembly` | Free | 415 |
+| [Formatho Tools](https://github.com/formatho/awesome-ai-tools) | 100+ privacy-first developer utilities, client-side processing | `privacy` `utilities` `tools` | Free | 6 |
+| [Formatho Tools](https://github.com/formatho/awesome-ai-tools) | 100+ privacy-first developer utilities, client-side processing | `privacy` `utilities` `tools` | Free | 6 |
+>>>>>>> 6b71e93 (feat: add Formatho Tools - 100+ privacy-first developer utilities)
 
 
 ### Search engines
